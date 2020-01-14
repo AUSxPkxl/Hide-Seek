@@ -1,0 +1,14 @@
+{
+"companyName": "AUSxPkxl",
+"productName": "HideNSeek",
+"dataUrl": "Alpha 1.0 (Internet).data.unityweb",
+"asmCodeUrl": "Alpha 1.0 (Internet).asm.code.unityweb",
+"asmMemoryUrl": "Alpha 1.0 (Internet).asm.memory.unityweb",
+"asmFrameworkUrl": "Alpha 1.0 (Internet).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Alpha 1.0 (Internet).jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
